@@ -1,2 +1,3 @@
-<html>Speedstar_Motors</html>
+<html>
 <head>The best Exotic cars</head>
+</html>
